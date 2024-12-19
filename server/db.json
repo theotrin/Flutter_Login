@@ -1,4 +1,11 @@
 {
+  "users": [
+    {
+      "email": "theo@email.com",
+      "password": "$2a$10$jwswVVRdUFkcOHijBZblleppxP.vJdGl3yx3VEO47lXQZJSGCwnju",
+      "id": 1
+    }
+  ],
   "learnhttp": {},
   "journals": [
     {
